@@ -2,7 +2,7 @@
 
 **Running locally**
 ```
-git clone git@github.com:/tombh/hello-sinatra
+git clone https://github.com/tombh/hello-sinatra.git
 bundle install
-bundle exec ruby hello.rb
+rackup
 ```
